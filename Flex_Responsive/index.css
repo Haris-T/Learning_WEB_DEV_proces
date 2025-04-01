@@ -1,0 +1,15 @@
+body{
+    min-height: 600px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    font-size: 40pt;
+    border: 1px solid black;
+    border-radius: 16px;
+}
